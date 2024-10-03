@@ -8,6 +8,8 @@
 2. ไม่มี ```'\n'``` ตอนท้ายสุด
 3. มี ```' '``` แค่ในรูปดาว
 
+![image](https://github.com/user-attachments/assets/4d6f465b-c5cc-4852-9a0b-9571099a5138)
+
 #### Example
 
 star(1) >>
